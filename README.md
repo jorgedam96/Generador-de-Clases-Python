@@ -1,6 +1,7 @@
 # Generador-de-Clases-Python
 
 https://youtu.be/05zvxzldmBw
+[<img src="https://img.youtube.com/vi/<05zvxzldmBw>/maxresdefault.jpg" width="50%">](https://youtu.be/<05zvxzldmBw>)
 
 
 Genera  la clase .py con: constructor, atributos privados, getters, setters y str()
