@@ -5,11 +5,8 @@ Ejecutar GeneradorDeClases.py
 
 la salida por consola:
 
-diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
+<p style='color:red'>This is some red text.</p>
+
 
 
 Introduce el nombre para la clase: persona 
