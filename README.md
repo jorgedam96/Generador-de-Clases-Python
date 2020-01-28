@@ -5,11 +5,19 @@ Ejecutar GeneradorDeClases.py
 
 la salida por consola:
 
-Introduce el nombre para la clase: persona
+
+
+Introduce el nombre para la clase: persona 
+
 Introduce el número de atributos: 3
+
 Introduce atributo 1: nombre
+
 Introduce atributo 2: apellido
+
 Introduce atributo 3: edad
+
+
 
 Se generará una clase .py con esos valores al lado de GeneradorDeClases.py 
 
