@@ -1,4 +1,8 @@
 # Generador-de-Clases-Python
+
+https://youtu.be/05zvxzldmBw
+
+
 Genera  la clase .py con: constructor, atributos privados, getters, setters y str()
 
 Ejecutar GeneradorDeClases.py 
