@@ -5,7 +5,6 @@ Ejecutar GeneradorDeClases.py
 
 la salida por consola:
 
-<p style='color:red'>This is some red text.</p>
 
 
 
