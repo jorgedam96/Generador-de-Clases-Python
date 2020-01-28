@@ -23,6 +23,7 @@ Introduce atributo 3: edad
 Se generará una clase .py con esos valores al lado de GeneradorDeClases.py 
 
 La clase generada :
+----------------------------------------------------------------
 
 
 class Persona:
